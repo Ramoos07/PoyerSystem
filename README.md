@@ -1,1 +1,1 @@
-
+Uma clinica se chamada POYER (clinica genérica), tinha um problema em relação ao gerenciamento de glosas, atendimentos, a parte financeira como os exames. O intuito deste projeto era criar um sistema que fosse possivel com que a equipe da clinica POYER (clinica genérica), conseguisse gerenciar seus sistemas de glosas em relação aos seus contratantes e atendimentos aos colaboradores desses tais contratos.
